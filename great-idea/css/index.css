@@ -67,8 +67,8 @@ h1, h2, h3, h4, h5 {
 
 .container{
 	width: 876px;
-	/* border: 1px solid red; */
-	/* box-sizing: content-box; */
+	border: 1px solid red;
+	box-sizing: content-box;
 	margin: 0 30px;
 }
 
